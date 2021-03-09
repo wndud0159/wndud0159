@@ -1,5 +1,5 @@
 ### 😄
-![wndud0159's github stats](https://github-readme-stats.vercel.app/api?username=wndud0159&show_icons=true&theme=dark)
+![wndud0159's github stats](https://github-readme-stats.vercel.app/api?username=wndud0159&show_icons=true&theme=algolia)
 
 <!--
 **wndud0159/wndud0159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
