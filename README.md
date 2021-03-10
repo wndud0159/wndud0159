@@ -1,4 +1,4 @@
-### :smile::blush::relieved::laughing::blush::flushed::astonished::scream:
+### :dog:
 ![wndud0159's github stats](https://github-readme-stats.vercel.app/api?username=wndud0159&show_icons=true&theme=algolia)
 
 <!--
